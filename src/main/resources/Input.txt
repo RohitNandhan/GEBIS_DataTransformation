@@ -1,0 +1,64 @@
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A_2014	OutboundMessage	/external trading partner group/00238 AKWEL SWEDEN AB/Outbound Messages	000	2022-01-31 08:26:29.14	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A_2014	OutboundMessage	/external trading partner group/38310 ESTAMPACIONES METALICAS EGUI SA/Outbound Messages	000	2021-10-15 15:05:49.71	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A_2014	OutboundMessage	/external trading partner group/63038 KAVLICO CORPORATION/Outbound Messages	000	2022-03-24 17:34:41.34	volvo_mtp
+MRL-1:DISTRIBUTION to EDIFACT:DELFOR:D04A	OutboundMessage	/external trading partner group/44843 DANA SPICER (THAILAND) LTD./Outbound Message	000	2023-06-10 09:25:55.15	ud_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A_2014	OutboundMessage	/external trading partner group/04954 AKWEL SANT JUST SPAIN, S.L/Outbound Messages	000	2022-03-23 14:27:41.46	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A_2014	OutboundMessage	/external trading partner group/03494 SENSATA TECHNOLOGIES HOLLAND B.V./Outbound Messages	000	2022-09-12 17:22:38.47	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A_2014	OutboundMessage	/external trading partner group/03323 LITTELFUSE EUROPE GMBH/Outbound Messages	000	2022-07-15 08:57:59.32	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A_2014	OutboundMessage	/external trading partner group/05385 CUMMINS TURBO TECHNOLOGIES LTD/Outbound Messages	000	2022-07-29 12:22:19.94	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A	OutboundMessage	/external trading partner group/08298 HITACHI ASTEMO LTD./Outbound Messages	000	2013-06-19 10:52:51.44	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A_2014	OutboundMessage	/external trading partner group/01662 HENKEL NORDEN AB/Outbound Messages	000	2022-06-09 16:56:21.49	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A	OutboundMessage	/external trading partner group/02968 BOSCH CORPORATION/Outbound Messages	000	2013-07-04 10:44:11.95	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A_2014	OutboundMessage	/external trading partner group/05023 BORGWARNER TECHNOLOGIES LTD/Outbound Messages	000	2022-08-23 19:33:53.43	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A	OutboundMessage	/external trading partner group/40938 SHANDONG CONMET MECHANICAL CO.,/Outbound Messages	000	2012-09-10 20:38:00.05	v0c1093
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A_2014	OutboundMessage	/external trading partner group/01164 MERITOR HVS AB/Outbound Messages	000	2022-09-13 10:19:06.52	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A_2014	OutboundMessage	/external trading partner group/19052 ACTIA AUTOMOTIVE/Outbound Messages	000	2022-01-27 08:30:42.5	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A_2014	OutboundMessage	/external trading partner group/19454 AKWEL RUDNIK CZECH REPUBLIC A S./Outbound Messages	000	2021-10-18 12:09:41.37	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A_2014	OutboundMessage	/external trading partner group/03586 PERNAT EMILE SA/Outbound Messages	000	2022-06-02 10:43:41.84	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A_2014	OutboundMessage	/external trading partner group/11111 ESTAMPACIONES MAYO SA/Outbound Messages	000	2022-05-16 12:40:35.32	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A	OutboundMessage	/external trading partner group/44546 WUXI CUMMINS TURBO TECHNOLOGIES CO./Outbound Messages	000	2013-01-11 10:03:32.42	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A_2014	OutboundMessage	/external trading partner group/33853 MERITOR GERMANY GMBH/Outbound Messages	000	2022-06-27 08:52:47.43	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A	OutboundMessage	/external trading partner group/41332 HITACHI ASTEMO LTD./Outbound Messages	000	2013-06-27 13:27:34.6	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A_2014	OutboundMessage	/external trading partner group/03718 CUMMINS FILTRATION/Outbound Messages	000	2022-08-12 09:19:40.59	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A_2014	OutboundMessage	/external trading partner group/07765 MERITOR HVS CAMERI S.P.A./Outbound Messages	000	2022-02-02 09:44:46.36	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A_2014	OutboundMessage	/external trading partner group/05396 MERITOR HVBS (UK) LTD/Outbound Messages	000	2022-02-02 09:41:49.54	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A_2014	OutboundMessage	/external trading partner group/44643 CUMMINS EMISSION SOLUTIONS UK/Outbound Messages	000	2022-04-08 11:41:17.72	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A_2014	OutboundMessage	/external trading partner group/42117 APTIV SERVICES HUNGARY KFT/Outbound Messages	000	2022-03-23 13:16:24.15	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A_2014	OutboundMessage	/external trading partner group/23947 APTIV SERVICES DEUTSCHLAND GMBH/Outbound Messages	000	2022-04-12 20:04:28.3	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A_2014	OutboundMessage	/external trading partner group/33477 SENSOR-NITE NV/Outbound Messages	000	2022-09-12 17:22:38.36	volvo_mtp
+MRL-1:DISTRIBUTION to EDIFACT:DELFOR:D04A	OutboundMessage	/external trading partner group/11160 MITSUBISHI ELECTRIC CORPORATION/Outbound Messages	000	2023-06-10 09:25:56.78	ud_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A_2014	OutboundMessage	/external trading partner group/56427 SENSATA TECHNOLOGIES HOLLAND BV/Outbound Messages	000	2022-11-03 10:38:57.27	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A_2014	OutboundMessage	/external trading partner group/87017 BORGWARNER TRADING (SHANGHAI)CO.,LT/Outbound Messages	000	2021-08-12 10:16:59.3	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A	OutboundMessage	/external trading partner group/49755 OPTIMAS OE SOLUTIONS JAPAN G.K/Outbound Messages	000	2017-12-06 10:47:31.42	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A	OutboundMessage	/external trading partner group/42986 CONMET NANJING MECHANICAL/Outbound Messages	000	2012-12-19 12:52:29.99	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A_2014	OutboundMessage	/external trading partner group/48179 APTIV SERVICES DEUTSCHLAND GMBH/OutboundMessages	000	2022-03-21 14:28:37.23	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A_2014	OutboundMessage	/external trading partner group/21691 O CAVA MECCANICA S.P.A./Outbound Messages	000	2022-10-26 13:52:55.55	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A	OutboundMessage	/external trading partner group/02979 MARELLI CORPORATION/Outbound Messages	000	2013-06-10 09:46:46.84	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A_2014	OutboundMessage	/external trading partner group/56670 MERITOR CVA CO LUFAPAK/Outbound Messages	000	2022-06-22 23:33:56.76	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A	OutboundMessage	/external trading partner group/42451 APTIV ELECTRICAL CENTERS(SHANGHAI)/Outbound Messages	000	2017-11-23 08:20:44.26	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A	OutboundMessage	/external trading partner group/45409 METALSA (THAILAND) CO., LTD./Outbound Messages	000	2013-04-09 15:09:36.36	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A_2014	OutboundMessage	/external trading partner group/26286 APTIVPORT SERVICES, S.A./Outbound Messages	000	2022-08-30 10:05:36.67	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A	OutboundMessage	/external trading partner group/04810 PROTERIAL, LTD./Outbound Messages	000	2018-06-08 11:33:43.96	volvo_mtp
+JIT-1:DISTRIBUTION to EDIFACT:DELJIT:D04B	OutboundMessage	/external trading partner group/44843 DANA SPICER (THAILAND) LTD./Outbound Message	000	2023-06-10 09:25:52.81	ud_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A_2014	OutboundMessage	/external trading partner group/53239 BORGWARNER OTOMOTIV SISTEMLERI/Outbound Messages	000	2023-01-30 10:11:23.78	volvo_mtp
+XML:VOLDELJITXML:2 to EDIFACT:DELJIT:D04B	OutboundMessage	/external trading partner group/45409 METALSA (THAILAND) CO., LTD./Outbound Messages	000	2014-08-29 08:09:26.95	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A_2014	OutboundMessage	/external trading partner group/05713 BORGWARNER TECHNOLOGIES LIMITED/Outbound Messages	000	2022-08-08 15:43:18.3	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A_2014	OutboundMessage	/external trading partner group/40531 CST TRANSPORTATION DE MEXICO/Outbound Messages	000	2022-09-23 13:14:54.33	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A_2014	OutboundMessage	/external trading partner group/32116 INTERPUMP HYDRAULICS S.P.A./Outbound Messages	000	2022-09-19 08:17:53.81	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A	OutboundMessage	/external trading partner group/45512 LEAR CORPORATION AUTOMOTIVE/Outbound Messages	000	2014-02-26 16:26:19.01	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A_2014	OutboundMessage	/external trading partner group/04961 AMES BARCELONA SINTERING, S.A.,/Outbound Messages	000	2022-04-28 00:04:55.97	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A	OutboundMessage	/external trading partner group/52871 SENSOR NITE N.V/Outbound Messages	000	2018-08-24 14:07:18.89	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A	OutboundMessage	/external trading partner group/52870 SENSATA TECHNOLOGIES HOLLAND B.V./Outbound Messages	000	2018-08-29 14:36:02.66	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A	OutboundMessage	/external trading partner group/00034 TRELLEBORG INDUSTRI SAS/Outbound Messages	000	2017-03-07 13:40:02.25	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A	OutboundMessage	/external trading partner group/54914 HIGHLY MARELLI JAPAN CORPORATION/Outbound Messages	000	2020-07-23 15:13:36.18	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A	OutboundMessage	/external trading partner group/40499 CONTITECH JAPAN CO LTD/Outbound Messages	000	2017-01-11 08:39:54.6	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A	OutboundMessage	/external trading partner group/48692 APTIV SERVICES (IRELAND) LIMITED/Outbound Messages	000	2016-12-07 14:03:47.71	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A_2014	OutboundMessage	/external trading partner group/25288 SENSATA TECHNOLOGIES, INC./Outbound Messages	000	2022-06-09 08:24:08.51	volvo_mtp
+MRL-1:DISTRIBUTION to EDIFACT:DELFOR:D04A	OutboundMessage	/external trading partner group/47015 STONERIDGE ASIA PACIFIC ELECTRONICS/Outbound Messages	000	2023-06-10 09:25:56.52	ud_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A	OutboundMessage	/external trading partner group/53532 BORGWARNER FRANCE SAS/Outbound Messages	000	2021-01-08 12:01:41.3	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A	OutboundMessage	/external trading partner group/48036 OPTIMAS (SUZHOU) TRADING CO., LTD/Outbound Messages	000	2017-08-10 11:39:52.17	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A_2014	OutboundMessage	/external trading partner group/49379 DONALDSON POLSKA SP. Z O.O./Outbound Messages	000	2022-03-04 21:25:35.68	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A	OutboundMessage	/external trading partner group/49373 HOWMET KOFEM KFT/Outbound Messages	000	2019-04-10 07:43:31.71	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A_2014	OutboundMessage	/external trading partner group/55703 INFINITY ENGINEERED PRODUCTS/Outbound Messages	000	2022-11-18 20:15:16.84	volvo_mtp
+VOLXMLJITJIS:2 to EDIFACT:DELJIT:D04B	OutboundMessage	/external trading partner group/08298 HITACHI ASTEMO LTD./Outbound Messages	000	2015-07-27 12:11:26.68	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A_2014	OutboundMessage	/external trading partner group/87089 MERITOR AFTERMARKET EUROPE LIMITED/Outbound Messages	000	2022-10-03 13:16:42.36	volvo_mtp
