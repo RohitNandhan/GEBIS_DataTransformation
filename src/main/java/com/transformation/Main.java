@@ -15,7 +15,8 @@ public class Main {
     public static void main(String[] args) {
         System.out.println(" -------------");
 
-        File fr=new File("src/main/resources/Input.txt");
+       File fr=new File("src/main/resources/Input.txt");
+      // File fr=new File("src/main/resources/test.txt") ;
 
         List<String> extractList=ExtractContent.Extract(fr);
 

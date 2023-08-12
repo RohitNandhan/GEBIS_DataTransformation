@@ -1,0 +1,2 @@
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A_2014	OutboundMessage	/external trading partner group/02647 HORDAGRUPPEN AB/Outbound Messages	000	2021-12-22 07:38:23.73	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A_2014	OutboundMessage	/external trading partner group/00114 HORDAGRUPPEN AB/Outbound Messages	000	2022-03-21 12:00:02.42	volvo_mtp
