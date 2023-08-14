@@ -1,5 +1,5 @@
 package com.mapping.gmail;
-
+import com.mapping.gmail.CustomException.ParmaNotFoundException;
 import org.apache.poi.openxml4j.exceptions.InvalidFormatException;
 
 import java.io.File;
@@ -11,7 +11,7 @@ public class Main {
 
     private static final String ExcelFile= "src/main/resources/20230808_SupplierContactSearch.xlsx";
 
-    public static void main(String[] args) throws IOException, InvalidFormatException {
+    public static void main(String[] args) throws IOException, InvalidFormatException, ParmaNotFoundException {
 
         File file = new File(ExcelFile);
         Scanner sc = new Scanner(System.in);
@@ -24,7 +24,9 @@ public class Main {
             extractContent.readExcel(file, parmaList);
             //extractContent.printOutput();
             extractContent.printOutput(true);
-            extractContent.mapToJson(input);
+          //  extractContent.mapToJson(input);
+           // extractContent.mapToText(input);
+        extractContent.mapToTextMultipleParmas(input);
             System.out.println("\n");
             //ExcelReader.readExcel(file,parmaList);
         sc.close();

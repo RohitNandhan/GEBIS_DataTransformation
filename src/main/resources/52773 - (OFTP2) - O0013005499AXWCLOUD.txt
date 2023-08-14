@@ -1,0 +1,9 @@
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A_2014	OutboundMessage	/external trading partner group/87045 PUMP TECHNOLOGY SOLUTIONS PS GMBH/Outbound Messages	000	2021-11-25 10:17:17.82	volvo_mtp
+SEEDELFSEEDELFOR:MRL to EDIFACT:DELFOR:D04A_2014	OutboundMessage	/external trading partner group/87045 PUMP TECHNOLOGY SOLUTIONS PS GMBH/Outbound Messages	000	2021-11-25 10:17:17.82	volvo_mtp
+       SEEDELFOR:MRL to EDIFACT:DELFOR:D04A_2014	OutboundMessage	/external trading partner group/55399 ADLER EVO S.R.L/Outbound Messages	000	2022-04-21 12:16:41.66	volvo_mtp
+       SEEDELFOR:MRL to EDIFACT:DELFOR:D04A	OutboundMessage	/external trading partner group/07784 FABBRICA ITALIANA CONFORT/Outbound Messages	000	2022-04-21 12:16:41.61	volvo_mtp
+       SEEDELFOR:MRL to EDIFACT:DELFOR:D04A	OutboundMessage	/external trading partner group/06011 REUTTER GMBH/Outbound Messages	000	2018-10-16 14:20:41.86	volvo_mtp
+       SEEDELFOR:MRL to EDIFACT:DELFOR:D04A_2014	OutboundMessage	/external trading partner group/32305 SCHONEWEISS AND CO GMBH/Outbound Messages	000	2022-04-21 12:16:41.71	volvo_mtpOR:MRL to EDIFACT:DELFOR:D04A_2014	OutboundMessage	/external trading partner group/55399 ADLER EVO S.R.L/Outbound Messages	000	2022-04-21 12:16:41.66	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A	OutboundMessage	/external trading partner group/07784 FABBRICA ITALIANA CONFORT/Outbound Messages	000	2022-04-21 12:16:41.61	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A	OutboundMessage	/external trading partner group/06011 REUTTER GMBH/Outbound Messages	000	2018-10-16 14:20:41.86	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A_2014	OutboundMessage	/external trading partner group/32305 SCHONEWEISS AND CO GMBH/Outbound Messages	000	2022-04-21 12:16:41.71	volvo_mtp

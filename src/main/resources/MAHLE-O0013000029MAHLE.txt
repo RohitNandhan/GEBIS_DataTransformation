@@ -1,0 +1,11 @@
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A	OutboundMessage	/external trading partner group/47268 MAHLE BEHR THERMAL SYSTEMS (JINAN)/Outbound Messages	000	2021-10-12 09:40:05.61	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A	OutboundMessage	/external trading partner group/06608 MAHLE VENTILTRIEB GMBH/Outbound Messages	000	2015-10-27 10:06:50.45	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A	OutboundMessage	/external trading partner group/46627 MAHLE FILTER SYSTEMS UK LTD./Outbound Messages	000	2015-10-27 10:06:50.91	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A_2014	OutboundMessage	/external trading partner group/06600 MAHLE GMBH/Outbound Messages	000	2022-06-14 11:22:12.43	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A_2014	OutboundMessage	/external trading partner group/28976 MAHLE-COMPONENTES DE MOTORES, S.A/Outbound Messages	000	2022-06-14 11:31:14.99	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A_2014	OutboundMessage	/external trading partner group/04760 MAHLE POLSKA SP. Z O.O../Outbound Messages	000	2022-06-14 11:27:21.51	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A_2014	OutboundMessage	/external trading partner group/33873 MAHLE ENGINE COMPONENTS SLOVAKIA/Outbound Messages	000	2022-06-14 11:17:45.64	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A_2014	OutboundMessage	/external trading partner group/47175 MAHLE COMPONENTI MOTORI ITALIA SPA/Outbound Messages	000	2022-06-14 11:16:00.28	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A_2014	OutboundMessage	/external trading partner group/13585 MAHLE FILTERSYSTEME FRANCE SA/Outbound Messages	000	2022-05-19 09:23:50.58	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A	OutboundMessage	/external trading partner group/45432 MAHLE ANAND THERMAL SYSTEMS PRIVATE/Outbound Messages	000	2015-06-24 13:11:11.95	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A_2014	OutboundMessage	/external trading partner group/49036 MAHLE VENTILTRIEB GMBH/Outbound Messages	000	2022-05-19 09:23:50.64	volvo_mtp

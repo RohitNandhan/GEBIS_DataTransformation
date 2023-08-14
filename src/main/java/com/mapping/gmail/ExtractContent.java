@@ -1,5 +1,6 @@
 package com.mapping.gmail;
 
+import com.mapping.gmail.CustomException.ParmaNotFoundException;
 import org.apache.poi.openxml4j.exceptions.InvalidFormatException;
 
 import java.io.File;
@@ -15,8 +16,9 @@ public class ExtractContent {
 
      File inputFile;
      File outputFile;
-    public  void readExcel(File file,List<Integer> ParmaNumber) throws IOException, InvalidFormatException {
-         mappedResult=ExcelReader.readExcel(file,ParmaNumber);
+    public  void readExcel(File file,List<Integer> ParmaNumber) throws IOException, InvalidFormatException, ParmaNotFoundException {
+         ExcelReaderUp excelReaderUp=new ExcelReaderUp();
+        mappedResult=excelReaderUp.readExcel(file,ParmaNumber);
     }
 
     public  void printOutput() throws IOException {
@@ -48,10 +50,20 @@ public class ExtractContent {
 
 
     public  List<Integer> stringToIntegerList(String values){
-        String[] arr=values.split(",");
+        String[] arr=values.split("[\\s,]+");
         for(String a:arr){
             parmaList.add(Integer.parseInt(a.trim()));
         }
         return parmaList;
+    }
+
+    public void mapToText(String fname) throws IOException {
+        File outputFile=new File("src/main/out/"+fname+".txt");
+        DTO.toText(outputFile,mappedResult);
+    }
+
+    public void mapToTextMultipleParmas(String fname) throws IOException {
+        File outputFile=new File("src/main/out/"+fname+".txt");
+        DTO.toTextMutipleParmas(outputFile,mappedResult);
     }
 }

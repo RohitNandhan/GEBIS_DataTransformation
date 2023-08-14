@@ -1,0 +1,2 @@
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A_2014	OutboundMessage	/external trading partner group/44245 MS MOTOR SERVICE INTERNATIONAL GMBH/Outbound Messages	000	2022-05-31 21:41:42.93	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A_2014	OutboundMessage	/external trading partner group/20570 PIERBURG PUMP TECHNOLOGY SARL/Outbound Messages	000	2022-06-22 11:00:48.54	volvo_mtp
