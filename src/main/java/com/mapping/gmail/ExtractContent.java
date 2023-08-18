@@ -9,15 +9,16 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Map;
 
-public class ExtractContent {
+public class ExtractContent  {
 
      List<Integer> parmaList=new LinkedList<>();
      Map<Integer, List<String>> mappedResult;
 
      File inputFile;
      File outputFile;
-    public  void readExcel(File file,List<Integer> ParmaNumber) throws IOException, InvalidFormatException, ParmaNotFoundException {
-         ExcelReaderUp excelReaderUp=new ExcelReaderUp();
+
+    public  void readExcel(File file, List<Integer> ParmaNumber) throws IOException, InvalidFormatException, ParmaNotFoundException {
+         ExcelReader excelReaderUp=new ExcelReader();
         mappedResult=excelReaderUp.readExcel(file,ParmaNumber);
     }
 
