@@ -2,6 +2,7 @@ package com.mapping.gmail.Refoctored.DTO;
 
 import com.mapping.gmail.Refoctored.Bean.ParmaExcel;
 import com.mapping.gmail.Refoctored.Bean.SupplierContactsExcel;
+import com.mapping.gmail.Refoctored.DTO.sorting.NameComparator;
 import com.mapping.gmail.Refoctored.Service.ExtractContent;
 
 import java.io.File;
@@ -109,6 +110,7 @@ public class MapToText {
             fileWriter.write(parma+": \t"+ parmaExcelMap.get(parma).getParmaname() +"\n");
             fileWriter.append("To : \n");
             if((extractContent.getSupplierDataTo().get(parma))!=null) {
+               // Collections.sort(extractContent.getSupplierDataTo().get(parma),new NameComparator());
             for (String mail : extractContent.getSupplierDataTo().get(parma).getEmailID()) {
                 //System.out.println(innerList);
                 fileWriter.append(mail).append(";");

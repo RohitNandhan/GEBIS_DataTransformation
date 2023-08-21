@@ -34,8 +34,10 @@ class MapToTextTest {
     @DisplayName(" Get Single Parma ")
     void maptoTextSingleParma() throws IOException, InvalidFormatException {
         DataConversion dataConversion=new DataConversion(Sfile,Bfile);
-        String parma="14475";
+        String parma="33037";
+        //String parma2="32121";
         dataConversion.mapToText(parma);
+     //   dataConversion.mapToText(parm2);
 
     }
 

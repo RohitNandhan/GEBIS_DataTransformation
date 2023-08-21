@@ -2,6 +2,7 @@ package com.mapping.gmail.Refoctored.Bean;
 
 import java.util.List;
 
+//Base class for SupplierExcel and Buyer Excel
 public class ParmaExcel implements Comparable<ParmaExcel>{
     private Integer parmaID;
     private String parmaname;
