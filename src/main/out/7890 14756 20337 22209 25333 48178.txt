@@ -1,0 +1,42 @@
+20337: 	MGG NETHERLANDS B.V
+To : 
+
+CC : 
+fvandijk@mgg.com;rvandierendonck@mgg.com;rterwielen@mgg.com;rvandenheuvel@mgg.com;fvandijk@mgg.com;rvandierendonck@mgg.com;rterwielen@mgg.com;rvandenheuvel@mgg.com;
+
+--------------------------------------------
+22209: 	ELLIUM
+To : 
+scarre@berardsa.fr;gcottaz@berardsa.fr;scarre@berardsa.fr;gcottaz@berardsa.fr;
+CC : 
+dsuc@berardsa.fr;pboutemy@berardsa.fr;fanser@berardsa.fr;dsuc@berardsa.fr;pboutemy@berardsa.fr;fanser@berardsa.fr;
+
+--------------------------------------------
+48178: 	FLEXIBLE METAL S.R.O
+To : 
+pdolnicek@flexiblemetal.com;ppechota@flexiblemetal.com;
+CC : 
+mgoodrich@flexiblemetal.com;pholecek@flexiblemetal.com;vkrupicka@flexiblemetal.com;
+
+--------------------------------------------
+7890: 	WITTE NEJDEK SPOL. S.R.O.
+To : 
+
+CC : 
+eva.jencikova@witte-automotive.cz;katerina.kohoutova@witte-automotive.cz;Robin.Lipensky@witte-automotive.cz;michaela.klimova@witte-automotive.cz;Barbora.Pekhartova@witte-automotive.cz;eva-maria.lilienthal@witte-automotive.de;gabriela.budinova@witte-automotive.cz;tomas.mlynarcik@witte-automotive.cz;martin.zitnik@witte-automotive.cz;Udo.Zimmermann@witte-automotive.de;dominika.klozova@witte-automotive.cz;eva.jencikova@witte-automotive.cz;katerina.kohoutova@witte-automotive.cz;Robin.Lipensky@witte-automotive.cz;michaela.klimova@witte-automotive.cz;Barbora.Pekhartova@witte-automotive.cz;eva-maria.lilienthal@witte-automotive.de;gabriela.budinova@witte-automotive.cz;tomas.mlynarcik@witte-automotive.cz;martin.zitnik@witte-automotive.cz;Udo.Zimmermann@witte-automotive.de;dominika.klozova@witte-automotive.cz;
+
+--------------------------------------------
+14756: 	CEBI LUXEMBOURG S.A.
+To : 
+jean-marc.konne@cebi.com;greg.milosch@cebi.com;pili.grafton@cebi.com;yann.hascoat@cebi.com;sebastien.drouot@cebi.com;sebastien.mercier@cebi.com;andy.lavigne@cebi.com;jean-marc.konne@cebi.com;greg.milosch@cebi.com;pili.grafton@cebi.com;yann.hascoat@cebi.com;sebastien.drouot@cebi.com;sebastien.mercier@cebi.com;andy.lavigne@cebi.com;
+CC : 
+marco.neves@cebi.com;aprils@iwswarehouse.com;marco.neves@cebi.com;aprils@iwswarehouse.com;
+
+--------------------------------------------
+25333: 	METALDYNE INTERNATIONAL (UK) LTD
+To : 
+Joanne.Jackson@aam.com;Lola.Garner@aam.com;Joanne.Jackson@aam.com;Lola.Garner@aam.com;
+CC : 
+Steve.Gully@aam.com;Steve.Gully@aam.com;
+
+--------------------------------------------

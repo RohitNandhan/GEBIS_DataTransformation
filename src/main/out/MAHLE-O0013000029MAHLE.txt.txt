@@ -1,0 +1,77 @@
+28976: 	MAHLE-COMPONENTES DE MOTORES, S.A
+To : 
+sorin.dinca@mahle.com;sorin.dinca@mahle.com;
+CC : 
+guida.carvalho@mahle.com;jil.niederberger@mahle.com;franziska.koepf@mahle.com;goncalo.santos@mahle.com;robert.vogel@mahle.com;tatjana.farrenkopf@mahle.com;sandra.monteiro@mahle.com;luis.jesus@mahle.com;guida.carvalho@mahle.com;jil.niederberger@mahle.com;franziska.koepf@mahle.com;goncalo.santos@mahle.com;robert.vogel@mahle.com;tatjana.farrenkopf@mahle.com;sandra.monteiro@mahle.com;luis.jesus@mahle.com;
+
+--------------------------------------------
+6608: 	MAHLE VENTILTRIEB GMBH
+To : 
+
+CC : 
+ingrid.graf@mahle.com;robert.vogel@mahle.com;tatjana.farrenkopf@mahle.com;ingrid.graf@mahle.com;robert.vogel@mahle.com;tatjana.farrenkopf@mahle.com;
+
+--------------------------------------------
+33873: 	MAHLE ENGINE COMPONENTS SLOVAKIA
+To : 
+eva.korbasova@sk.mahle.com;rudolf.kijac@sk.mahle.com;eva.korbasova@sk.mahle.com;rudolf.kijac@sk.mahle.com;
+CC : 
+maria.daudova@sk.mahle.com;robert.vogel@mahle.com;veronika.halastikova@sk.mahle.com;maria.daudova@sk.mahle.com;robert.vogel@mahle.com;veronika.halastikova@sk.mahle.com;
+
+--------------------------------------------
+13585: 	MAHLE FILTERSYSTEME FRANCE SA
+To : 
+
+CC : 
+sandrine.fihlol@fr.mahle.com;robert.farquhar@mahle.com;Marie-Christine.Leviel@mahle.com;sandrine.fihlol@fr.mahle.com;robert.farquhar@mahle.com;Marie-Christine.Leviel@mahle.com;
+
+--------------------------------------------
+46627: 	MAHLE FILTER SYSTEMS UK LTD.
+To : 
+carl.jones@gb.mahle.com;
+CC : 
+robert.farquhar@mahle.com;jackie.smith@gb.mahle.com;
+
+--------------------------------------------
+47268: 	MAHLE BEHR THERMAL SYSTEMS (JINAN)
+To : 
+sandra.fleischanderl@mahle.com;
+CC : 
+sandra.fleischanderl@mahle.com;
+
+--------------------------------------------
+47175: 	MAHLE COMPONENTI MOTORI ITALIA SPA
+To : 
+
+CC : 
+francesco.bellei@it.mahle.com;robert.vogel@mahle.com;paolo.baldo@it.mahle.com;fernando.paulo@mahle.com;
+
+--------------------------------------------
+45432: 	MAHLE ANAND THERMAL SYSTEMS PRIVATE
+To : 
+
+CC : 
+suraj.hukkeri@in.mahle.com;A.Balasubramanian@in.mahle.com;Jagadeesh.Pachaiappan@in.mahle.com;Sureshanand.A@in.mahle.com;suraj.hukkeri@in.mahle.com;A.Balasubramanian@in.mahle.com;Jagadeesh.Pachaiappan@in.mahle.com;Sureshanand.A@in.mahle.com;
+
+--------------------------------------------
+4760: 	MAHLE POLSKA SP. Z O.O..
+To : 
+marcin.michalak@pl.mahle.com;marcin.michalak@pl.mahle.com;
+CC : 
+Kamil.Antkowiak@pl.mahle.com;jil.niederberger@mahle.com;leszek.kokot@pl.mahle.com;robert.vogel@mahle.com;robert.wolniewicz@pl.mahle.com;tatjana.farrenkopf@mahle.com;Kamil.Antkowiak@pl.mahle.com;jil.niederberger@mahle.com;leszek.kokot@pl.mahle.com;robert.vogel@mahle.com;robert.wolniewicz@pl.mahle.com;tatjana.farrenkopf@mahle.com;
+
+--------------------------------------------
+6600: 	MAHLE GMBH
+To : 
+
+CC : 
+robert.vogel@mahle.com;tatjana.farrenkopf@mahle.com;norbert.sellmaier@mahle.com;hartmut.hagen@mahle.com;bernd.mager@mahle.com;blanka.schroeder@mahle.com;oliver.gaiss@mahle.com;robert.vogel@mahle.com;tatjana.farrenkopf@mahle.com;norbert.sellmaier@mahle.com;hartmut.hagen@mahle.com;bernd.mager@mahle.com;blanka.schroeder@mahle.com;oliver.gaiss@mahle.com;
+
+--------------------------------------------
+49036: 	MAHLE VENTILTRIEB GMBH
+To : 
+
+CC : 
+robert.vogel@mahle.com;tatjana.farrenkopf@mahle.com;
+
+--------------------------------------------
