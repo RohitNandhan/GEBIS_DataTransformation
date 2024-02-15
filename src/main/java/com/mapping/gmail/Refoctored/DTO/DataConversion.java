@@ -1,8 +1,6 @@
 package com.mapping.gmail.Refoctored.DTO;
 
-import com.mapping.gmail.Refoctored.Bean.ParmaExcel;
-import com.mapping.gmail.Refoctored.Bean.SupplierContactsExcel;
-import com.mapping.gmail.Refoctored.DTO.utils.ConversionUtils;
+import com.mapping.gmail.Refoctored.utils.ConversionUtils;
 import com.mapping.gmail.Refoctored.Service.ExtractContent;
 import com.mapping.gmail.Refoctored.Service.ExtractContentImpl;
 import org.apache.poi.openxml4j.exceptions.InvalidFormatException;

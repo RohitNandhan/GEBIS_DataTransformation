@@ -1,10 +1,8 @@
 package com.mapping.gmail.Refoctored.Service;
 
-import com.mapping.gmail.CustomException;
 import com.mapping.gmail.Refoctored.Bean.ParmaExcel;
 import com.mapping.gmail.Refoctored.Bean.SupplierContactsExcel;
 import com.mapping.gmail.Refoctored.Mapping.MappingBuyer;
-import com.mapping.gmail.Refoctored.Mapping.MappingData;
 import com.mapping.gmail.Refoctored.Mapping.MappingSupplierContact;
 import org.apache.poi.openxml4j.exceptions.InvalidFormatException;
 
@@ -13,15 +11,16 @@ import java.io.IOException;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-import java.util.stream.Stream;
 
 public class ExtractContentImpl implements ExtractContent{
     MappingSupplierContact mappingSupplierData;
     MappingBuyer mappingBuyerData;
 
     public ExtractContentImpl(File sFile, File bFile) throws IOException, InvalidFormatException {
-        mappingSupplierData =new MappingSupplierContact(sFile);
-        mappingBuyerData=new MappingBuyer(bFile);
+        mappingSupplierData= (MappingSupplierContact) FactoryClass.getInstance(MappingSupplierContact.class.toString(), sFile);
+        //mappingSupplierData =new MappingSupplierContact(sFile);
+        mappingBuyerData= (MappingBuyer) FactoryClass.getInstance(MappingBuyer.class.toString(), bFile);
+        //mappingBuyerData=new MappingBuyer(bFile);
         mappingSupplierData.mappingSupplierData();
         mappingBuyerData.mappingSupplierData();
     }
@@ -33,6 +32,7 @@ public class ExtractContentImpl implements ExtractContent{
             if (ParmaNumber.contains(parma)) {
                 dataMap.put(parma, mappingSupplierData.getParmaMap().get(parma));
             } }
+
         return dataMap;
     }
 
@@ -55,7 +55,7 @@ public class ExtractContentImpl implements ExtractContent{
 
     @Override
     public Map<Integer, ParmaExcel> getBuyerData()  {
-        return mappingBuyerData.getBuyerMap();
+        return mappingBuyerData.getParmaMap();
     }
 
     @Override
@@ -63,8 +63,8 @@ public class ExtractContentImpl implements ExtractContent{
         Map<Integer,ParmaExcel> dataMap=new HashMap<>();
         if (mappingSupplierData.getParmaMap().keySet().contains(ParmaNumber)) {
             dataMap.put(ParmaNumber, mappingSupplierData.getParmaMap().get(ParmaNumber));
-        }if(mappingBuyerData.getBuyerMap().containsKey(ParmaNumber)){
-            mappingSupplierData.getParmaMap().get(ParmaNumber).setEmailID(mappingBuyerData.getBuyerMap().get(ParmaNumber).getEmailID().get(0));
+        }if(mappingBuyerData.getParmaMap().containsKey(ParmaNumber)){
+            mappingSupplierData.getParmaMap().get(ParmaNumber).setEmailID(mappingBuyerData.getParmaMap().get(ParmaNumber).getEmailID().get(0));
         }
         return dataMap;
     }
@@ -73,8 +73,8 @@ public class ExtractContentImpl implements ExtractContent{
         for (Integer parma : mappingSupplierData.getParmaMap().keySet()) {
             if (ParmaNumber.contains(parma)) {
                 dataMap.put(parma, mappingSupplierData.getParmaMap().get(parma));
-            } if(mappingBuyerData.getBuyerMap().containsKey(ParmaNumber)){
-                mappingSupplierData.getParmaMap().get(ParmaNumber).setEmailID(mappingBuyerData.getBuyerMap().get(ParmaNumber).getEmailID().get(0));
+            } if(mappingBuyerData.getParmaMap().containsKey(ParmaNumber)){
+                mappingSupplierData.getParmaMap().get(ParmaNumber).setEmailID(mappingBuyerData.getParmaMap().get(ParmaNumber).getEmailID().get(0));
             }}
 
 

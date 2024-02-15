@@ -1,4 +1,4 @@
-package com.mapping.gmail.Refoctored.DTO.sorting;
+package com.mapping.gmail.Refoctored.sorting;
 
 import com.mapping.gmail.Refoctored.Bean.ParmaExcel;
 

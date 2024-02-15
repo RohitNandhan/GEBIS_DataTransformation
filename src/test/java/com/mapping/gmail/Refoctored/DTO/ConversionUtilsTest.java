@@ -1,6 +1,6 @@
 package com.mapping.gmail.Refoctored.DTO;
 
-import com.mapping.gmail.Refoctored.DTO.utils.ConversionUtils;
+import com.mapping.gmail.Refoctored.utils.ConversionUtils;
 import org.junit.Test;
 
 public class ConversionUtilsTest {

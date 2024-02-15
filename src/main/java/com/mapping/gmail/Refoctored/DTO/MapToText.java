@@ -1,15 +1,11 @@
 package com.mapping.gmail.Refoctored.DTO;
 
 import com.mapping.gmail.Refoctored.Bean.ParmaExcel;
-import com.mapping.gmail.Refoctored.Bean.SupplierContactsExcel;
-import com.mapping.gmail.Refoctored.DTO.sorting.NameComparator;
 import com.mapping.gmail.Refoctored.Service.ExtractContent;
 
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
-import java.util.Collection;
-import java.util.Collections;
 import java.util.List;
 import java.util.Map;
 
@@ -107,7 +103,10 @@ public class MapToText {
         Map<Integer,ParmaExcel> parmaExcelMap=extractContent.getSupplierData(parmas);
         //Collections.sort(parmaExcelMap);
         for (Integer parma : parmaExcelMap.keySet()) {
-            fileWriter.write(parma+": \t"+ parmaExcelMap.get(parma).getParmaname() +"\n");
+            //52870- SENSATA TECHNOLOGIES HOLLAND B.V.-- UD Trucks EDI
+            String parmaDetails="%d - %s -- UD Trucks EDI ";
+            fileWriter.write(String.format(parmaDetails,parma,parmaExcelMap.get(parma).getParmaname())+"\n");
+         //   fileWriter.write(parma+": \t"+ parmaExcelMap.get(parma).getParmaname() +"\n");
             fileWriter.append("To : \n");
             if((extractContent.getSupplierDataTo().get(parma))!=null) {
                // Collections.sort(extractContent.getSupplierDataTo().get(parma),new NameComparator());

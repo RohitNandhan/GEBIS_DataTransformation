@@ -13,7 +13,7 @@ import java.io.IOException;
 import java.util.Iterator;
 import java.util.Map;
 
-public abstract class MappingData {
+public abstract class MappingData implements DataInteface {
     int sheetIndex=0;
     int contentIndex =0;
     int parmaIndex;

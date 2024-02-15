@@ -1,4 +1,4 @@
-package com.mapping.gmail;
+package com.mapping.gmail.old;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 

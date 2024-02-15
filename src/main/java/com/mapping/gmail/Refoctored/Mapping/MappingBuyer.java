@@ -1,11 +1,10 @@
 package com.mapping.gmail.Refoctored.Mapping;
 
-import com.mapping.gmail.Refoctored.Bean.BuyerExcel;
 import com.mapping.gmail.Refoctored.Bean.ParmaExcel;
+import com.mapping.gmail.Refoctored.Bean.SupplierContactsExcel;
 import org.apache.poi.openxml4j.exceptions.InvalidFormatException;
 import org.apache.poi.ss.usermodel.Cell;
 import org.apache.poi.ss.usermodel.Row;
-import org.apache.poi.ss.usermodel.Sheet;
 
 import java.io.File;
 import java.io.IOException;
@@ -62,7 +61,13 @@ public class MappingBuyer extends MappingData {
 
     }
 
-    public Map<Integer, ParmaExcel> getBuyerMap() {
+    @Override
+    public void mappingToSupplierMap(Integer parmaID, String parmaName, String Email, String title, Map<Integer, SupplierContactsExcel> supplierMap) {
+
+    }
+
+    @Override
+    public Map<Integer, ParmaExcel> getParmaMap() {
         return buyerMap;
     }
 }

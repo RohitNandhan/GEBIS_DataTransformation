@@ -1,0 +1,26 @@
+MRL-8:DISTRIBUTION to EDIFACT:DELFOR:D04A_2014	OutboundMessage	/external trading partner group/02759 SCHULZ S.A./Outbound Messages	000	2021-11-24 04:41:40.59	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A_2014	OutboundMessage	/external trading partner group/49920 FORGEX SWEDEN AB/Outbound Messages	000	2022-05-26 02:43:26.09	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A_2014	OutboundMessage	/external trading partner group/52669 AQ SPECIAL SHEET METAL AB/Outbound Messages	000	2021-12-16 19:02:45.21	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A_2014	OutboundMessage	/external trading partner group/49848 AGES KULLTORP AB/Outbound Messages	000	2022-05-05 23:21:33.38	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A_2014	OutboundMessage	/external trading partner group/53049 AQ SPECIAL SHEET METAL AB/Outbound Messages	000	2022-04-04 14:22:41.05	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A_2014	OutboundMessage	/external trading partner group/45676 AQ WIRING SYSTEMS UAB/Outbound Messages	000	2022-03-25 10:34:34.49	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A_2014	OutboundMessage	/external trading partner group/00934 INDUSTRIGUMMI AB/Outbound Messages	000	2022-09-13 19:25:15.53	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A_2014	OutboundMessage	/external trading partner group/44371 AQ WIRING SYSTEMS SP.Z.O.O/Outbound Messages	000	2021-12-20 16:07:32.01	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A_2014	OutboundMessage	/external trading partner group/01616 BESLAG OCH METALL AB/Outbound Messages	000	2021-12-13 04:15:38.54	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A_2014	OutboundMessage	/external trading partner group/01425 HELLERMANN TYTON AB/Outbound Messages	000	2021-12-07 08:35:50.6	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A_2014	OutboundMessage	/external trading partner group/01393 SHILOH INDUSTRIES AB/Outbound Messages	000	2023-01-11 11:49:52.46	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A_2014	OutboundMessage	/external trading partner group/00281 TALENT PLASTICS LAXA AB/Outbound Messages	000	2021-12-16 02:45:45.39	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A	OutboundMessage	/external trading partner group/36293 MINTH INTERNATIONAL MACAO/Outbound Messages	000	2012-09-11 16:24:46.78	v0c1093
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A_2014	OutboundMessage	/external trading partner group/00393 FUNDO COMPONENTS AB/Outbound Messages	000	2023-01-16 10:13:58.95	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A_2014	OutboundMessage	/external trading partner group/02260 BRICKPACK AB/Outbound Messages	000	2022-05-11 17:01:19.9	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A_2014	OutboundMessage	/external trading partner group/00732 BUFAB LANN AB/Outbound Messages	000	2021-11-28 22:20:53.6	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A_2014	OutboundMessage	/external trading partner group/00933 BE-GE STECE AB/Outbound Messages	000	2021-11-22 10:01:26.01	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A_2014	OutboundMessage	/external trading partner group/35661 AQ LASERTOOL OU/Outbound Messages	000	2021-12-10 15:10:53.16	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A_2014	OutboundMessage	/external trading partner group/26108 NITATOR HYLTE AB/Outbound Messages	000	2022-07-06 09:25:54.91	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A_2014	OutboundMessage	/external trading partner group/08294 SHILOH INDUSTRIES/Outbound Messages	000	2023-01-11 11:49:52.56	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A	OutboundMessage	/external trading partner group/00926 AQ SEGERSTROM & SVENSSON/Outbound Messages	000	2015-05-29 08:34:10.3	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A_2014	OutboundMessage	/external trading partner group/02368 NATIONAL HALMSTAD PERFORMANCE/Outbound Messages	000	2022-06-01 11:21:10.77	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A_2014	OutboundMessage	/external trading partner group/02505 AGES VARNAMO AB/Outbound Messages	000	2021-11-11 06:53:28.71	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A_2014	OutboundMessage	/external trading partner group/37125 SHILOH INDUSTRIES SP. Z O.O./Outbound Messages	000	2023-01-11 11:49:52.52	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A_2014	OutboundMessage	/external trading partner group/01594 NITATOR I OSKARSTROM AB/Outbound Messages	000	2022-07-06 09:35:48.46	volvo_mtp
+SEEDELFOR:MRL to EDIFACT:DELFOR:D04A_2014	OutboundMessage	/external trading partner group/48115 AUTOMOTIVE COMPONENTS FLOBY AB/Outbound Messages	000	2022-01-27 15:05:26.55	volvo_mtp

@@ -13,7 +13,7 @@ import java.io.File;
 import java.io.IOException;
 import java.util.*;
 
-public class MappingSupplierContact extends MappingData {
+public class MappingSupplierContact extends MappingData implements DataInteface {
 
     int titleIndex;
     String mainContact="To";
@@ -35,6 +35,7 @@ public class MappingSupplierContact extends MappingData {
         setParmaIndex(sheet.getRow(contentIndex));
     }
 
+    @Override
     public void mappingSupplierData() {
         parmaMap =new HashMap<>();
         supplierMapTO=new HashMap<>();
@@ -63,7 +64,8 @@ public class MappingSupplierContact extends MappingData {
     }
   //  Map<key, value>
     // Map<Integer, Class parma>
-    public void mappingToParmaMap(Integer parmaID,String parmaName, String Email,Map<Integer,ParmaExcel> parmaMap) {
+    @Override
+    public void mappingToParmaMap(Integer parmaID, String parmaName, String Email, Map<Integer, ParmaExcel> parmaMap) {
         if(parmaMap.containsKey(parmaID)){
             parmaMap.get(parmaID).setEmailID(Email);
         }else {
@@ -73,7 +75,8 @@ public class MappingSupplierContact extends MappingData {
             //parmaMap.put(parmaID,new ParmaExcel(parmaID,parmaName,new ArrayList<>(Arrays.asList(Email))));
         }
     }
-    public void mappingToSupplierMap(Integer parmaID,String parmaName, String Email,String title,Map<Integer,SupplierContactsExcel> supplierMap) {
+    @Override
+    public void mappingToSupplierMap(Integer parmaID, String parmaName, String Email, String title, Map<Integer, SupplierContactsExcel> supplierMap) {
         if(supplierMap.containsKey(parmaID)){
             supplierMap.get(parmaID).setEmailID(Email);
         }else {
@@ -104,7 +107,9 @@ public class MappingSupplierContact extends MappingData {
         }
     }
 
+    @Override
     public Map<Integer, ParmaExcel> getParmaMap() {
+
         return parmaMap;
     }
 

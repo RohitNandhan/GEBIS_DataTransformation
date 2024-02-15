@@ -1,4 +1,4 @@
-package com.mapping.gmail.Refoctored.DTO.utils;
+package com.mapping.gmail.Refoctored.utils;
 
 import com.mapping.gmail.Refoctored.ExceptionHandling.FolderPresentException;
 

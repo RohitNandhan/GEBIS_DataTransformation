@@ -1,4 +1,4 @@
-package com.mapping.gmail;
+package com.mapping.gmail.old;
 
 public class CustomException extends Exception{
 
